@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ERP System",
+  title: "SchoolyCore,
   description: "School ERP",
 };
 
